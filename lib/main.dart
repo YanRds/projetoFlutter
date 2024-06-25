@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fun_me/faces.dart';
+import 'package:projetoFlutter/faces.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
